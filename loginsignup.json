@@ -1,0 +1,17 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "c666057e-6b1a-42f0-bc4e-4d6c546b5d96",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://reeju:%3Cpassword%3E@cluster0.scoc4nm.mongodb.net/"
+      },
+      "favorite": {
+        "name": "project"
+      }
+    }
+  ]
+}
