@@ -21,6 +21,7 @@ This project is a MERN stack based web application designed for user authenticat
 Clone the repository:
    ```
    git clone [repository-url]
+```
 Navigate to the project directory:<br>
 Copy code
  ```
