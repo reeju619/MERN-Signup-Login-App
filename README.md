@@ -18,7 +18,7 @@ This project is a MERN stack based web application designed for user authenticat
 - npm or yarn package manager
 
 ### Steps
-1. Clone the repository:
+Clone the repository:
    ```
    git clone [repository-url]
 Navigate to the project directory:<br>
@@ -30,7 +30,7 @@ Install backend dependencies:<br>
 Copy code<br>
  ```
 npm install
- ```
+
 Navigate to the frontend directory and install dependencies:<br>
 Copy code<br>
  ```
