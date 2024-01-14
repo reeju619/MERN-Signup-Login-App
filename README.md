@@ -21,7 +21,7 @@ This project is a MERN stack based web application designed for user authenticat
    ```
    git clone [repository-url]
 ```
-
+```
 Error analyzing
 It seems there was an issue accessing the contents of the "MERN-Signup-Login-App-main" ZIP file. In such cases, it's beneficial to manually extract and review the contents on your local system.
 
