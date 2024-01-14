@@ -21,9 +21,8 @@ This project is a MERN stack based web application designed for user authenticat
 1. Clone the repository:
    ```
    git clone [repository-url]
-   <br>
 Navigate to the project directory:<br>
-Copy code<br>
+Copy code
  ```
 cd MERN-Signup-Login-App-main
  ```
